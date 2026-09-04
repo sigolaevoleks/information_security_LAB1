@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="./Сіголаєв_AI234_ЛР1.pdf">
+  <a href="./Сіголаєв_Ніколас_AI234_ЛР1.pdf">
     <img src="./assets/report-preview.png" alt="Lab Report Preview" width="450" />
   </a>
 </p>
